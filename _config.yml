@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.5240862
+  lightness: 0.5214918
+  brandStrength: 0.1528735
+  brandColors:
+    - '#0D1112'
+    - '#FFFFFF'
+    - '#6985AA'
+    - '#ACC5ED'
+    - '#A8FF94'
+  rhythmicContrast: 0.2142172
+typography_spectrum: 0.4946237
+name: 3DP
