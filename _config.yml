@@ -1,15 +1,15 @@
-typography_spectrum: 0.44248420582152903
+typography_spectrum: 0.465927618322894
 color:
-  saturation: 0.8480311306193471
-  lightness: 0.13387361611239612
-  brandStrength: 0.9292309156153351
+  saturation: 0.6166658068541437
+  lightness: 0.23386163800023496
+  brandStrength: 0.6882601366378367
   brandColors:
-    - '#2F2933'
-    - '#01A2A6'
-    - '#29D9C2'
-    - '#BDF271'
-    - '#FFFFA6'
-  rhythmicContrast: 0.8817934242542833
+    - '#F6F792'
+    - '#333745'
+    - '#77C4D3'
+    - '#DAEDE2'
+    - '#EA2E49'
+  rhythmicContrast: 0.32591013913042843
 layout_spectrum: 0.4232106013223529
 name: 3DP
 title: 3D Printing Gallery
