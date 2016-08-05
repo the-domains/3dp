@@ -1,16 +1,16 @@
-typography_spectrum: 0.4946237
+typography_spectrum: 0.44248420582152903
 color:
-  saturation: 0.5240862
-  lightness: 0.5214918
-  brandStrength: 0.1528735
+  saturation: 0.8480311306193471
+  lightness: 0.13387361611239612
+  brandStrength: 0.9292309156153351
   brandColors:
-    - '#0D1112'
-    - '#FFFFFF'
-    - '#6985AA'
-    - '#ACC5ED'
-    - '#A8FF94'
-  rhythmicContrast: 0.2142172
-layout_spectrum: 1
+    - '#2F2933'
+    - '#01A2A6'
+    - '#29D9C2'
+    - '#BDF271'
+    - '#FFFFA6'
+  rhythmicContrast: 0.8817934242542833
+layout_spectrum: 0.4232106013223529
 name: 3DP
 title: 3D Printing Gallery
 description: Sharing the love...
