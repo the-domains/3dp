@@ -1,4 +1,4 @@
-layout_spectrum: 1
+typography_spectrum: 0.4946237
 color:
   saturation: 0.5240862
   lightness: 0.5214918
@@ -10,6 +10,7 @@ color:
     - '#ACC5ED'
     - '#A8FF94'
   rhythmicContrast: 0.2142172
-typography_spectrum: 0.4946237
+layout_spectrum: 1
 name: 3DP
 title: 3D Printing Gallery
+description: Sharing the love...
